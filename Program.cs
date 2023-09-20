@@ -3,7 +3,7 @@
 double num1, num2;
 char operation;
 
-Console.WriteLine("Простой консольный калькулятор");
+Console.WriteLine("Сложный консольный калькулятор");
 Console.WriteLine("Доступные операции: +, -, *, /");
 
 Console.Write("Введите первое число: ");
