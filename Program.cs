@@ -35,12 +35,12 @@ switch (operation)
         }
         else
         {
-            Console.WriteLine("Ошибка: Деление на ноль!");
+            Console.WriteLine("Ошибка: деление на ноль!");
             return;
         }
         break;
     default:
-        Console.WriteLine("Ошибка: Неверная операция!");
+        Console.WriteLine("Ошибка: неверная операция!");
         return;
 }
 
