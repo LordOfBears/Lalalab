@@ -3,6 +3,11 @@
 double num1, num2;
 char operation;
 
+Console.WriteLine("Добро пожаловать!");
+Console.WriteLine("Для продолжения нажмите на любую клавишу...");
+Console.ReadLine();
+Console.Clear();
+
 Console.WriteLine("Простой консольный калькулятор");
 Console.WriteLine("Доступные операции: +, -, *, /");
 
